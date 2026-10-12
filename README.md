@@ -4,6 +4,12 @@
 [![Render Pipeline](https://img.shields.io/badge/Pipeline-Universal%202D%20(URP)-blue)](https://unity.com/srp/Universal-Render-Pipeline)
 [![Language](https://img.shields.io/badge/Language-C%23-blueviolet?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+### 🎮 游戏画面演示
+
+**PC / 模拟器实机画面：**
+<img width="1274" height="671" alt="image" src="https://github.com/user-attachments/assets/7ef55471-255f-4c5f-a1bd-ae018a01c4e4" />
+<img width="1279" height="719" alt="image" src="https://github.com/user-attachments/assets/db096eab-55ef-43c5-a5c0-ddcabfc1f2e3" />
+
 
 基于 **Unity 6 (URP 2D)** 独立落地的 2D 横版弹幕射击游戏 Demo。项目致敬《碧蓝航线》核心交互逻辑，实现了自机位移控制、射频弹幕机制、波次实体生成、低开销 2D 物理碰撞检测与自适应 HUD 计分系统。
 
